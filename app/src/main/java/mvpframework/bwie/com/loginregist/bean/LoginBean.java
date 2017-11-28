@@ -9,6 +9,7 @@ public class LoginBean {
      * msg : 登录成功
      * code : 0
      * data : {"age":null,"appkey":"842a5c44a0323518","appsecret":"C8B0FCCF7BFDCDCE0D9BA142BBB37557","createtime":"2017-11-02T16:08:46","email":null,"gender":null,"icon":null,"mobile":"15612346598","money":null,"nickname":null,"password":"8F669074CAF5513351A2DE5CC22AC04C","token":null,"uid":1454,"username":"15612346598"}
+     * 董博
      */
 
     private String msg;
